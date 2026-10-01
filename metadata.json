@@ -1,0 +1,6 @@
+{
+  "name": "Maison Séraphine — Haute Esthétique & Luxury Beauty Atelier",
+  "description": "A high-end luxury beauty sanctuary offering couture nail artistry, bespoke lashes, brow sculpting, cellular skincare, and editorial makeup rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
